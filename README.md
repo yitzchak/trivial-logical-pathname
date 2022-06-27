@@ -1,1 +1,1 @@
-# trivial-logical-pathname
+# trivial-pathname
